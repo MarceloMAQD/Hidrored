@@ -1,0 +1,8 @@
+com\hidrored\HidroredUsuariosApplication.class
+com\hidrored\dominio\usuarios\modelo\Usuario.class
+com\hidrored\config\SecurityConfig.class
+com\hidrored\dominio\usuarios\IUsuarioRepository.class
+com\hidrored\aplicacion\usuarios\UsuarioApplicationService.class
+com\hidrored\aplicacion\usuarios\UsuarioDTO.class
+com\hidrored\presentacion\usuarios\UsuarioController.class
+com\hidrored\aplicacion\usuarios\RegistrarUsuarioCommand.class
